@@ -1,4 +1,4 @@
-const API_KEY = "574927ede9dae6c7657e6e81ab788ff7";
+
 
 
 // BASE OF THE REQUEST ROUTE: 
